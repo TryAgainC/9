@@ -54,7 +54,7 @@ l.close()
 
 #加密
 m = open("节点信息.txt","rb+")
-n = open("最后的节点信息.txt","wb+")
+n = open("最后的节点信息","wb+")
 str1 = m.read()
 str64 = base64.b64encode(str1)
 n.write(str64)
