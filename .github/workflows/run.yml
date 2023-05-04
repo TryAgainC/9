@@ -28,10 +28,14 @@ jobs:
 #       run: |
 #         cd ruozhi
 #         python 1SendEmail_And_regist.py
-    - name: Update MESL
+#     - name: Update MESL
+#       run: |
+#         cd MESL
+#         python MESL_All.py   
+    - name: Update tongyong
       run: |
-        cd MESL
-        python MESL_All.py   
+        cd tongyong
+        python 1SendEmail_And_regist.py
     - name: Commit
       run: |
         git config --global user.email 953777956@qq.com
