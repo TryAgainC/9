@@ -4,8 +4,8 @@ import string
 import base64
 w = open("订阅链接.txt", "w")
 #机场链接
-jichang_link = 'http://freedom86.top/'
-for i in range(1,31):
+jichang_link = 'https://extc.shop/'
+for i in range(1,9):
     url_regist= jichang_link+'api/v1/passport/auth/register'
 
     qq_num = random.randint(1, 999999999999)
