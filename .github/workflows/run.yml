@@ -4,7 +4,7 @@ name: Python application
 
 on:
   schedule:
-     #- cron: '35 3 * * *'
+     - cron: '2 14 * * *'
 
 jobs:
   build:
@@ -24,10 +24,6 @@ jobs:
         pip install lxml
         #if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         #
-#     - name: Update ruozhiyun
-#       run: |
-#         cd ruozhi
-#         python 1SendEmail_And_regist.py
 #     - name: Update MESL
 #       run: |
 #         cd MESL
