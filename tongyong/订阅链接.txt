@@ -1,8 +1,8 @@
-https://extc.shop/api/v1/client/subscribe?token=02f777526d65af1e89967817eaae33ed
-https://extc.shop/api/v1/client/subscribe?token=d024d180e4ba9b1836a538e1c5850636
-https://extc.shop/api/v1/client/subscribe?token=3db0dc0063d80b5008708deb300fa78c
-https://extc.shop/api/v1/client/subscribe?token=d7b26fc91fa9025936326342a3924387
-https://extc.shop/api/v1/client/subscribe?token=9a57ab8cb4aba20530eabb42dbf222fa
-https://extc.shop/api/v1/client/subscribe?token=d54fa88abfb91bb99783f877f98a6dde
-https://extc.shop/api/v1/client/subscribe?token=e4c7c15ce28255488682b90f6d5dd3de
-https://extc.shop/api/v1/client/subscribe?token=ede91826d64624c3d55aeb53294ce960
+https://extc.shop/api/v1/client/subscribe?token=7bd153fa5f0ca31caf873977b3867db6
+https://extc.shop/api/v1/client/subscribe?token=a8e092bf31a17e384a7316e23b57eb87
+https://extc.shop/api/v1/client/subscribe?token=d6678b7143409f43027dc72a8d8c10ce
+https://extc.shop/api/v1/client/subscribe?token=23e6c005f958b2afe58d72fb6ca2d461
+https://extc.shop/api/v1/client/subscribe?token=22d0161d1bcc0391b8fbc9287f3479cd
+https://extc.shop/api/v1/client/subscribe?token=e18e663988b07474d2bb52656ca12dc5
+https://extc.shop/api/v1/client/subscribe?token=704c8134291b131eb7f7895a66f99327
+https://extc.shop/api/v1/client/subscribe?token=8b61cac8060373cfe99de7f967ab4b04
