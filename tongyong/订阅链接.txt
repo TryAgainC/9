@@ -1,8 +1,8 @@
-https://extc.shop/api/v1/client/subscribe?token=67ac2cacd2b0413b19acaff124eb40cb
-https://extc.shop/api/v1/client/subscribe?token=5669ae46de6f786b571d7e92ad009ab6
-https://extc.shop/api/v1/client/subscribe?token=5ebb55121e51d30899f7ac8f2235ca35
-https://extc.shop/api/v1/client/subscribe?token=80fb8c37f36e2e1d3657826f02af9d97
-https://extc.shop/api/v1/client/subscribe?token=d198201b0a9dabe9ac36b13707677478
-https://extc.shop/api/v1/client/subscribe?token=3345ce371ebd93d0ba0f81670ced0e91
-https://extc.shop/api/v1/client/subscribe?token=cd79b83699eeaaaea3bdd73008f59724
-https://extc.shop/api/v1/client/subscribe?token=b6e6f76bcd311fee48acdca03d8b225c
+https://2.leseyun.com/api/v1/client/subscribe?token=1c68d5fa7205faf4a2b23e2cc75c058d
+https://2.leseyun.com/api/v1/client/subscribe?token=0eb7c0fcac974e14de9bbabbca3a9fa6
+https://2.leseyun.com/api/v1/client/subscribe?token=fa0fb836007ebce87a726d4506af5483
+https://2.leseyun.com/api/v1/client/subscribe?token=ac645ace47a093b44c33aa1869604b2f
+https://2.leseyun.com/api/v1/client/subscribe?token=3c5a4fbbff2ebb3546a8fe02289b9760
+https://2.leseyun.com/api/v1/client/subscribe?token=4a415d046ba36188e1c3f509a3e6512a
+https://2.leseyun.com/api/v1/client/subscribe?token=d010b776d3b7891f812bb77bb0fbd9b3
+https://2.leseyun.com/api/v1/client/subscribe?token=d3526480aa2bcbf295bcffb343fd9dcb
