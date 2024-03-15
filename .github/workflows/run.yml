@@ -3,8 +3,8 @@
 name: Python application
 
 on:
-  # schedule:
-     # - cron: '0 15 * * *'
+   schedule:
+      - cron: '0 15 * * *'
 
 jobs:
   build:
@@ -28,10 +28,10 @@ jobs:
 #       run: |
 #         cd MESL
 #         python MESL_All.py   
-#    - name: Update tongyong
-#      run: |
-#        cd tongyong
-#        python 1SendEmail_And_regist.py
+    - name: Update tongyong
+      run: |
+        cd tongyong
+        python 1SendEmail_And_regist.py
     - name: Commit
       run: |
         git config --global user.email 953777956@qq.com
