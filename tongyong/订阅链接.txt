@@ -1,8 +1,8 @@
-https://2.leseyun.com/api/v1/client/subscribe?token=34a5f21a5e3d5c4d76d9f9efa2f4062f
-https://2.leseyun.com/api/v1/client/subscribe?token=1a706d5eb750f11eb8b8e2f21aeaeffa
-https://2.leseyun.com/api/v1/client/subscribe?token=5d4903cf922e8aaa098dfeecafe20564
-https://2.leseyun.com/api/v1/client/subscribe?token=bd2ae0603285c67de00962f3fc7ffd51
-https://2.leseyun.com/api/v1/client/subscribe?token=5fb0180927cb3379bb9caaa6da5c4f92
-https://2.leseyun.com/api/v1/client/subscribe?token=fe8f06a3690f0acd66e840be548a9c06
-https://2.leseyun.com/api/v1/client/subscribe?token=876f9ca5bd7e9231e8cc7605adb66c62
-https://2.leseyun.com/api/v1/client/subscribe?token=3369cba95b496baee3c101a71924a111
+https://ni8.me/api/v1/client/subscribe?token=f35339db9989da84a96ae62fbc1d766f
+https://ni8.me/api/v1/client/subscribe?token=59a81f5f3baa0499076985c32219ee83
+https://ni8.me/api/v1/client/subscribe?token=ca2b9a977c319f62fe1e064aa2cfccb0
+https://ni8.me/api/v1/client/subscribe?token=7fd491dabe96eb57d22a79e3b5578986
+https://ni8.me/api/v1/client/subscribe?token=6781b3cfb71c5725d1fdd0ed43c7946b
+https://ni8.me/api/v1/client/subscribe?token=e959d3f040773f554f19a71cf3214c83
+https://ni8.me/api/v1/client/subscribe?token=85a8c5583f8eafe142e0991e60d50d1e
+https://ni8.me/api/v1/client/subscribe?token=8a6f54224acc4ec2f455eba51041f235
