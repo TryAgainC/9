@@ -4,7 +4,7 @@ import string
 import base64
 w = open("订阅链接.txt", "w")
 #机场链接
-jichang_link = 'https://2.leseyun.com/'
+jichang_link = 'https://ni8.me/'
 for i in range(1,9):
     url_regist= jichang_link+'api/v1/passport/auth/register'
 
