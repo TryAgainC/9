@@ -1,8 +1,8 @@
-https://ni8.me/api/v1/client/subscribe?token=f77a31d43a23f77895ddcd1a2f68fabb
-https://ni8.me/api/v1/client/subscribe?token=68b3141308c40f27b29d3c4ddcdc3d0b
-https://ni8.me/api/v1/client/subscribe?token=f36586d9d1ed3d0f3f6ad75d8885fec1
-https://ni8.me/api/v1/client/subscribe?token=aa3c494f2a9aecd87e08e68c43beab24
-https://ni8.me/api/v1/client/subscribe?token=cf13eebbae8cb82e5de5743b0d7f2367
-https://ni8.me/api/v1/client/subscribe?token=ed48eeb840f055482ed401d49b2d73ff
-https://ni8.me/api/v1/client/subscribe?token=f0eb4343fb8de28de08b01331c31c9d1
-https://ni8.me/api/v1/client/subscribe?token=61cca94d6600ad4401e46f1df5cd50db
+https://ni8.me/api/v1/client/subscribe?token=90bb7eadc5d962f862a182f52e5cefbd
+https://ni8.me/api/v1/client/subscribe?token=13ec30a1436ed70900496c1c78593f44
+https://ni8.me/api/v1/client/subscribe?token=f3efdd4d5d4bf6d61d3acb2b7bb7fb52
+https://ni8.me/api/v1/client/subscribe?token=b7f8b5fae5759468a5466cb402e46c35
+https://ni8.me/api/v1/client/subscribe?token=cf769c73e2ebb16e7a5ef193394e11e0
+https://ni8.me/api/v1/client/subscribe?token=7ba8535adc184a5f9fdfd30171b30df1
+https://ni8.me/api/v1/client/subscribe?token=8a9f918730603a69c4dac7e9e3be56df
+https://ni8.me/api/v1/client/subscribe?token=4805b8736ad1c50d2d36bf3fb4fa8bd6
