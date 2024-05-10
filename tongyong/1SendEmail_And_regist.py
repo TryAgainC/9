@@ -5,7 +5,7 @@ import base64
 w = open("订阅链接.txt", "w")
 #机场链接
 jichang_link = 'https://ni8.me/'
-for i in range(1,9):
+for i in range(5):
     url_regist= jichang_link+'api/v1/passport/auth/register'
 
     qq_num = random.randint(1, 999999999999)
@@ -15,6 +15,7 @@ for i in range(1,9):
     data = {
         "email": qq_email,
         "password": ran_str,
+        "invite_code" : "bTHuH4by"
     }
 
     r2 = requests.post(url=url_regist,data=data)
