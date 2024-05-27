@@ -1,5 +1,5 @@
-https://ni8.me/api/v1/client/subscribe?token=c6935cc226951f80ff78fd47f0bcb1eb
-https://ni8.me/api/v1/client/subscribe?token=8d13aab67b02bb8bbb32754378a30f88
-https://ni8.me/api/v1/client/subscribe?token=271cb31d2d414b3319e39576ac68833f
-https://ni8.me/api/v1/client/subscribe?token=46ec26845e4be1775f08f3760a9e250b
-https://ni8.me/api/v1/client/subscribe?token=c8f41e7e114114749aaab0f099779735
+https://ni8.me/api/v1/client/subscribe?token=e4c4c32bf0bf1f768b53409ac585c77c
+https://ni8.me/api/v1/client/subscribe?token=174ced4a26e61d998cd324eff2924396
+https://ni8.me/api/v1/client/subscribe?token=c97dc50a94724576efc72ca762a7aaff
+https://ni8.me/api/v1/client/subscribe?token=d734663230eb6717ba83a3e148c49e20
+https://ni8.me/api/v1/client/subscribe?token=d36f43f191a3d6301d553e3314e537cd
